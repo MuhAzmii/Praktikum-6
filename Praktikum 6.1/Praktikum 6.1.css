@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+  
+  }
+
+  body {
+    min-height: 80%;
+  }
+  .container {
+    display: flex;
+    max-width: 60%;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 25% auto;
+  }
+    img {
+      border: 2px solid #1d2238;
+      border-radius: 5px;
+      width: 15%;
+      margin: .2em;
+    }
+    .gambar1, .gambar2, .gambar3 {
+      width: 30%;
+    }
+    .gambar4, .gambar5, .gambar6, .gambar7, .gambar8 {
+      width: 17%;
+    }
